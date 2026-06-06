@@ -2,6 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![DataScience](https://img.shields.io/badge/Data%20Science-blueviolet?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects-7-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-00C851?style=for-the-badge)
 
 **By Vishvi** - Data Science and AI Practitioner
@@ -20,6 +21,8 @@ Each project solves one real problem cleanly.
 | 03 - CSV Analyser | Data exploration | Pandas, Matplotlib |
 | 04 - BMI Calculator | Functions and conditionals | Python |
 | 05 - Coin Flip Simulator | Probability basics | Python, NumPy |
+| 06 - Temperature Converter | Functions, chaining | Python |
+| 07 - Student Grade Calculator | Dicts, loops, aggregation | Python |
 
 ---
 
@@ -29,7 +32,7 @@ Each mini project is:
 - Focused on one concept
 - Completable in under 1 hour
 - Well documented with comments
-- A stepping stone to bigger projects
+- A stepping stone to bigger DS projects
 
 ---
 
